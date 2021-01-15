@@ -1,0 +1,7 @@
+{
+  "name": "nextjs-template",
+  "version": 2,
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
